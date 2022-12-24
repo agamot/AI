@@ -1,0 +1,4 @@
+presiunea:1013
+Vantul: 1.03
+Vremea: fog
+Temperature: 64.05
